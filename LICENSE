@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 ankursinghal7-ai
+Copyright (c) 2026 Ankur Singhal
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+This software is intended for use by tax and finance professionals as an
+indicative reconciliation aid. It does not constitute professional tax advice.
+Always verify outputs against original source documents (TRACES Form 26AS
+download and audited books) before filing tax returns or responding to notices
+from the tax authority.
